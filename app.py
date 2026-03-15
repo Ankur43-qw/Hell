@@ -1,5 +1,5 @@
 import os
-os.environ['GOOGLE_API_KEY'] = "AIzaSyBTws27v42iYOGIf2vr70peGUoobP2cFH0"
+os.environ['GOOGLE_API_KEY'] = "AIzaSyDYw22EodIk_pzkV6MG0YYZ_9DECN1OeXo"
 
 import gradio as gr
 
